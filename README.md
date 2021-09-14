@@ -39,5 +39,19 @@
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aaquib-ali-39494b210/)</code> 
 <code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ali_aaquib_)</code> 
 <code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCMRkXKJdVsv0kW3sC16_Ikw)</code> 
-<code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_bilinmez_aaquib/)</code> 
+<code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_bilinmez_aaquib/)</code>
+<code> [<img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://aaquibworld.medium.com/)</code>
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [My Journey in Sudan’s Technocrats](https://aaquibworld.medium.com/my-journey-in-sudans-technocrats-49450d400000)
+- [CSS Practices To Avoid as a Web Developer](https://aaquibworld.medium.com/5-css-practices-to-avoid-as-a-web-developer-d7645fb51d53)
+- [A Complete Guide to Getting Started with CSS Thread](https://aaquibworld.medium.com/a-complete-guide-to-getting-started-with-css-thread-a88ca3b46ea1)
+- [How to learn Programming!](https://aaquibworld.medium.com/beginning-with-programming-956edbf3894f)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://aaquibworld.medium.com/)
+
+<!---<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=AaquibAli&theme=radical" alt="AaquibAli Github Stats" />
+  </p> ---!>
