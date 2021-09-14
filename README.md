@@ -20,7 +20,6 @@
  - 🔭 A First Year Undergrad, Programmer, Developer!!
 - 🌱 Currently learning Javascript
 - 🤝 2021 Goals: Contribute more to Open Source projects
-- 💬 Ask me about communities, programming, web development and writing.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I come here for the green squares
 - 💻 Languages and Tools I use:   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
