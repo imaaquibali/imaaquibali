@@ -53,17 +53,17 @@
 
 ➡️ [more blog posts...](https://aaquibworld.medium.com/)
 
-<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=AaquibAli&theme=radical" alt="AaquibAli Github Stats" />
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=aaquibdev&theme=radical" alt="aaquibdev Github Stats" />
   </p> 
    <p align='center'>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=AaquibAli&count_private=true&theme=radical"/>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=aaquibdev&count_private=true&theme=radical"/>
 </p>
   <p align='center'>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AaquibAli&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aaquibdev&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AaquibAli/count.svg" />
+  <img src="https://profile-counter.glitch.me/aaquibdev/count.svg" />
 </p>
  <div align="center">
  
