@@ -48,13 +48,13 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey in Sudan’s Technocrats](https://aaquibworld.medium.com/my-journey-in-sudans-technocrats-49450d400000)
-- [CSS Practices To Avoid as a Web Developer](https://aaquibworld.medium.com/5-css-practices-to-avoid-as-a-web-developer-d7645fb51d53)
-- [A Complete Guide to Getting Started with CSS Thread](https://aaquibworld.medium.com/a-complete-guide-to-getting-started-with-css-thread-a88ca3b46ea1)
-- [How to learn Programming!](https://aaquibworld.medium.com/beginning-with-programming-956edbf3894f)
+- [9 Visual Studio Code Extensions That Make Programming Easier.](https://medium.com/geekculture/9-visual-studio-code-extensions-that-make-programming-easier-6bbdacc15b6)
+- [Top 5 Programming languages to learn in 2022](https://medium.com/geekculture/top-5-programming-languages-to-learn-in-2022-27f5d21ca6bc)
+- [What is MLH Local Hack Day : Learn & How to Participate?](https://aaquibdev.medium.com/what-is-mlh-local-hack-day-learn-how-to-participate-daf84fde173c)
+- [Windows 11: Everything You Need to Know?](https://aaquibdev.medium.com/windows-11-everything-you-need-to-know-9b82d308f062)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://aaquibworld.medium.com/)
+➡️ [more blog posts...](https://aaquibdev.medium.com/)
 
 <p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=aaquibdev&theme=radical" alt="aaquibdev Github Stats" />
   </p> 
