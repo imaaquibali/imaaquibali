@@ -7,9 +7,9 @@
 <p align="center">
 <a href="https://www.instagram.com/aaquib.dev/" alt="Instgram Follow">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="http://curiouscoders.epizy.com/" alt="Website">
-  <img src="https://img.shields.io/website?label=curiouscoders&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com"/></a>
-   <a href="https://www.linkedin.com/in/aaquib-ali-39494b210/" alt="Instgram Follow">
+  <a href="https://aaquibdev.medium.com/" alt="Blog">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aaquib-ali-39494b210/" alt="Instgram Follow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  </a><br><br>
  
@@ -35,12 +35,15 @@
 <!--   [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/irsayvid)  -->
 
 📫 How to reach me:
-<code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_bilinmez_aaquib/)</code>
+<code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aaquib_dev/)</code>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aaquib-ali-39494b210/)</code> 
 <code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ali_aaquib_)</code> 
 <code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCMRkXKJdVsv0kW3sC16_Ikw)</code> 
 <code> [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/smart.swag.100)</code>
 <code> [<img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://aaquibworld.medium.com/)</code>
+
+
+
 
 ### 📕 Latest Blog Posts
 
