@@ -17,11 +17,11 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=aaquibdev&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
   <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
   
- - 🔭 A First Year Undergrad, Programmer, Developer!!
-- 🌱 Currently learning Javascript
-- 🤝 2021 Goals: Contribute more to Open Source projects
+ - 🔭 A Second Year Undergrad, Programmer, Developer!!
+- 🌱 Currently learning Python
+- 🤝 2022 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I come here for the green squares
+- ⚡ Never really had a type... i just like the way, i vibe w/ certain people. 🖤 ♛
 - 💻 Languages and Tools I use:   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
