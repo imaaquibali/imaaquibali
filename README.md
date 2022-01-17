@@ -15,7 +15,7 @@
  
  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=devaaquib&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
-  <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+  <!-- **devaaquib/devaaquib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
   
  - 🔭 A Second Year Undergrad, Programmer, Developer!!
 - 🌱 Currently learning Python
@@ -38,7 +38,7 @@
 <code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aaquib.dev/)</code>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aaquib-ali-39494b210/)</code> 
 <code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/dev_aaquib)</code> 
-<code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCMRkXKJdVsv0kW3sC16_Ikw)</code> 
+<!-- <code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCMRkXKJdVsv0kW3sC16_Ikw)</code>  -->
 <code> [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/smart.swag.100)</code>
 <code> [<img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://aaquibdev.medium.com/)</code>
 
@@ -56,17 +56,17 @@
 
 ➡️ [more blog posts...](https://aaquibdev.medium.com/)
 
-<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=aaquibdev&theme=radical" alt="aaquibdev Github Stats" />
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=devaaquib&theme=radical" alt="aaquibdev Github Stats" />
   </p> 
    <p align='center'>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=aaquibdev&count_private=true&theme=radical"/>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=devaaquib&count_private=true&theme=radical"/>
 </p>
   <p align='center'>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aaquibdev&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devaaquib&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/aaquibdev/count.svg" />
+  <img src="https://profile-counter.glitch.me/devaaquib/count.svg" />
 </p>
  <div align="center">
  
