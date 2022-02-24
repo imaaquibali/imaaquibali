@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Never,+really+had+a+type...;i+just+like+the+way...;i+vibe+w/+certain+people+♛&center=true&size=15">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Never,+really+had+a+type...;i+just+like+the+way...;i+vibe+w/+certain+people+♛&center=true&size=20">
   </a>
 </h1>
 
