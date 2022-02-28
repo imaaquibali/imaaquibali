@@ -33,7 +33,7 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
   </a>
  </div> -->
  ### Connect with me:
- 
+
 [![website](./img/globe-light.svg)](https://aaquibaliportfolio.vercel.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://aaquibaliportfolio.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -46,10 +46,6 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
 [![website](./img/instagram-light.svg)](https://instagram.com/ali.aaquib_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ali.aaquib_#gh-dark-mode-only)
 ------------------
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devaaquib&show_icons=true&theme=tokyonight" />
-</div>
 
 ### 💻 Languages and Tools
 
@@ -74,12 +70,8 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
 - [Windows 11: Everything You Need to Know?](https://aaquibdev.medium.com/windows-11-everything-you-need-to-know-9b82d308f062?source=rss-ab31787d3f79------2)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- BLOG-POST-LIST:START
-- [All About Full Stack Development - The Complete Guide](https://enlear.academy/all-about-full-stack-development-the-complete-guide-3eab236046d9)
-- [Top 5 Programming languages to learn in 2022](https://medium.com/geekculture/top-5-programming-languages-to-learn-in-2022-27f5d21ca6bc)
-- [9 Visual Studio Code Extensions That Make Programming Easier.](https://medium.com/geekculture/9-visual-studio-code-extensions-that-make-programming-easier-6bbdacc15b6)
-- [Getting started with Git & GitHub : The complete beginners guide?](https://aaquibdev.medium.com/getting-started-with-git-github-the-complete-beginners-guide-d4430b36a224)
-- [CSS Practices To Avoid as a Web Developer?](https://enlear.academy/5-css-practices-to-avoid-as-a-web-developer-d7645fb51d53)
-<!-- BLOG-POST-LIST:END -->
-
 ➡️ [more blog posts...](https://aaquibdev.medium.com/)
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devaaquib&show_icons=true&theme=tokyonight" />
+</div>
