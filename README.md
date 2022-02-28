@@ -15,7 +15,7 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Never really had a type.. i just like the way, i vibe w/ certain people. 🖤 ♛
 
-<div align="left">
+<!-- <div align="left">
  <a href="https://twitter.com/dev_aaquib">
     <img src="https://img.shields.io/twitter/follow/dev_aaquib" />
   </a>
@@ -31,8 +31,18 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
    <a href="https://linkedin.com/in/aaquib-ali" />
     <img src="https://img.shields.io/badge/Linkedin-blue" />
   </a>
- </div>
-
+ </div> -->
+[![website](./img/globe-light.svg)](https://aaquibaliportfolio.vercel.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://aaquibaliportfolio.vercel.app#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/dev_aaquib#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/dev_aaquib#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aaquib-ali#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aaquib-ali#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/ali.aaquib_#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/ali.aaquib_#gh-dark-mode-only)
 ------------------
 
 <div align="left">
