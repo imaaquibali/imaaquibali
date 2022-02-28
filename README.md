@@ -6,9 +6,14 @@
   </a>
 </h1>
 
-Driven Undergraduate student Currently in 2nd year with exceptional communication and analytics skills.
-I am a Open-Source enthusiast, blogger and skilled in Front-End development. Currently learning Blockchain. 😊 
+<!-- Driven Undergraduate student Currently in 2nd year with exceptional communication and analytics skills.
+I am a Open-Source enthusiast, blogger and skilled in Front-End development. Currently learning Blockchain. 😊  -->
 
+- 🔭A passionate and aspiring MERN stack developer from India
+- 🌱 Currently learning everything 🤣
+- 🤝 2021 Goals: Learn more about blockchain, web3 and contribute more to open-source
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Never really had a type.. i just like the way, i vibe w/ certain people. 🖤 ♛
 
 <div align="left">
  <a href="https://twitter.com/dev_aaquib">
