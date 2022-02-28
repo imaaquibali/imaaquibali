@@ -32,6 +32,8 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
     <img src="https://img.shields.io/badge/Linkedin-blue" />
   </a>
  </div> -->
+ ### Connect with me:
+ 
 [![website](./img/globe-light.svg)](https://aaquibaliportfolio.vercel.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://aaquibaliportfolio.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
