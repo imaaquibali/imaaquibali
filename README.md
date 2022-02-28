@@ -21,15 +21,15 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
   </a>
   
   <a href="https://www.instagram.com/ali.aaquib_/">
-    <img src="https://img.shields.io/badge/ali.aaquib_-Instagram-pink" />
+    <img src="https://img.shields.io/badge/Instagram-pink" />
   </a>
   
    <a href="https://aaquibdev.medium.com/">
-    <img src="https://img.shields.io/badge/aaquibdev-Medium-black" />
+    <img src="https://img.shields.io/badge/Medium-black" />
   </a>
   
    <a href="https://linkedin.com/in/aaquib-ali" />
-    <img src="https://img.shields.io/badge/Aaquib-Linkedin-blue" />
+    <img src="https://img.shields.io/badge/Linkedin-blue" />
   </a>
  </div>
 
