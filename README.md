@@ -50,7 +50,7 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START
 - [All About Full Stack Development - The Complete Guide](https://enlear.academy/all-about-full-stack-development-the-complete-guide-3eab236046d9)
 - [Top 5 Programming languages to learn in 2022](https://medium.com/geekculture/top-5-programming-languages-to-learn-in-2022-27f5d21ca6bc)
 - [9 Visual Studio Code Extensions That Make Programming Easier.](https://medium.com/geekculture/9-visual-studio-code-extensions-that-make-programming-easier-6bbdacc15b6)
@@ -58,4 +58,4 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
 - [CSS Practices To Avoid as a Web Developer?](https://enlear.academy/5-css-practices-to-avoid-as-a-web-developer-d7645fb51d53)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://aaquibdev.medium.com/)
+<!-- ➡️ [more blog posts...](https://aaquibdev.medium.com/) --> -->
