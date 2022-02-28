@@ -60,4 +60,4 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
 - [CSS Practices To Avoid as a Web Developer?](https://enlear.academy/5-css-practices-to-avoid-as-a-web-developer-d7645fb51d53)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ➡️ [more blog posts...](https://aaquibdev.medium.com/) --> -->
+➡️ [more blog posts...](https://aaquibdev.medium.com/) -->
