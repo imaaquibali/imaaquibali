@@ -49,6 +49,8 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
 <!--   [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/irsayvid)  -->
 
 ### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG-POST-LIST:START
 - [All About Full Stack Development - The Complete Guide](https://enlear.academy/all-about-full-stack-development-the-complete-guide-3eab236046d9)
