@@ -1,4 +1,4 @@
-## Hi! I am Aaquib 👨‍💻 
+## Hi! this is Aaquib 👨‍💻 
 
 <h1 align="center">
   <a href="#">
