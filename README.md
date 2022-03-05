@@ -9,7 +9,6 @@
 
 - 🔭 Driven Undergraduate student Currently in 2nd year 
 - 📋 Open-Source enthusiast, Blogger, Developer
-- 🌱 Currently learning Blockchain
 - 🤝 2021 Goals: contribute more to open-source 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Never really had a type.. i just like the way, i vibe w/ certain people. 🖤 ♛
