@@ -6,32 +6,15 @@
   </a>
 </h1>
 
-<!-- Driven Undergraduate student Currently in 2nd year with exceptional communication and analytics skills.
-I am a Open-Source enthusiast, blogger and skilled in Front-End development. Currently learning Blockchain. 😊  -->
 
-- 🔭A passionate and aspiring MERN stack developer from India
-- 🌱 Currently learning everything 🤣
-- 🤝 2021 Goals: Learn more about blockchain, web3 and contribute more to open-source
+- 🔭 Driven Undergraduate student Currently in 2nd year 
+- 📋 Open-Source enthusiast, Blogger, Developer
+- 🌱 Currently learning Blockchain
+- 🤝 2021 Goals: contribute more to open-source 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Never really had a type.. i just like the way, i vibe w/ certain people. 🖤 ♛
 
-<!-- <div align="left">
- <a href="https://twitter.com/dev_aaquib">
-    <img src="https://img.shields.io/twitter/follow/dev_aaquib" />
-  </a>
-  
-  <a href="https://www.instagram.com/ali.aaquib_/">
-    <img src="https://img.shields.io/badge/Instagram-pink" />
-  </a>
-  
-   <a href="https://aaquibdev.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-black" />
-  </a>
-  
-   <a href="https://linkedin.com/in/aaquib-ali" />
-    <img src="https://img.shields.io/badge/Linkedin-blue" />
-  </a>
- </div> -->
+
  ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://aaquibaliportfolio.vercel.app#gh-light-mode-only)
@@ -58,8 +41,7 @@ I am a Open-Source enthusiast, blogger and skilled in Front-End development. Cur
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code> <img height="20" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> </code>
-
-<!--   [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/irsayvid)  -->
+------------------
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
