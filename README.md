@@ -61,7 +61,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
+
+
+
+
+
+
 
 <!-- ### Spotify Playing 🎧
 [<img src="https://novatorem-devaaquib.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/1d4b58a048ca4616892ac769fe4d180b)
