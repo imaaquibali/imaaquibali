@@ -89,8 +89,13 @@
 
  <details>
   <summary> 🧮 &nbsp; <i>Most Used Languages</i></summary>
+
   
   <br>
+    <br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devaaquib&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 
 <!-- <div align="left">
