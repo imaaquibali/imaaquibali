@@ -84,7 +84,7 @@
   
  [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaaquib&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  </details>
- 
+
 
  <details>
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
@@ -94,7 +94,12 @@
 <!--END_SECTION:activity-->
 
 
+<!---
+devaaquib/devaaquib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
+![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
 
 
 
