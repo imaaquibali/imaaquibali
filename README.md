@@ -65,9 +65,37 @@
 
 ➡️ [more blog posts...](https://aaquibdev.medium.com/)
 
-<div align="left">
+<h4><i>Some more information &nbsp; </i>🏷:-</h4>
+
+ <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
+ 
+ <details>
+  <summary> 📈 &nbsp; <i>My Streak</i></summary>
+  
+  <br>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devaaquib&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+</details>
+ 
+  <details>
+   <summary> 📊 &nbsp; <i>My GitHub Stats</i></summary>
+  
+  <br>
+  
+ [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaaquib&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ </details>
+
+
+
+ <details>
+  <summary> 🧮 &nbsp; <i>Most Used Languages</i></summary>
+  
+  <br>
+
+
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=devaaquib&show_icons=true&theme=tokyonight" />
-</div>
+</div> -->
 
 
 ### :zap: Recent Activity
