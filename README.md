@@ -1,4 +1,6 @@
-## 🙋‍♂️ Aaquib is here... 👨‍💻 
+<!-- ## 🙋‍♂️ Aaquib is here... 👨‍💻  -->
+
+<pre> <b>Hi, I am Aaquib Ali</b>. 👋</pre>
 
 <h1 align="center">
   <a href="#">
@@ -8,11 +10,11 @@
 
 <img align="right" width=90px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
 
-- 🔭 Driven Undergraduate student Currently in 2nd year 
-- 📋 Open-Source enthusiast, Blogger, Developer
-- 🤝 2021 Goals: contribute more to open-source 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Never really had a type.. i just like the way, i vibe w/ certain people. 🖤 ♛
+- 🔭 &nbsp; ⇢  &nbsp; Driven Undergraduate student Currently in 2nd year 
+- 📋 &nbsp; ⇢  &nbsp; Open-Source enthusiast, Blogger, Developer
+- 🤝 &nbsp; ⇢  &nbsp; 2021 Goals: contribute more to open-source 
+- 😄 &nbsp; ⇢  &nbsp; Pronouns: He/Him
+- ⚡ &nbsp; ⇢  &nbsp; Fun fact: Never really had a type.. i just like the way, i vibe w/ certain people. 🖤 ♛
 
 <br>
  
