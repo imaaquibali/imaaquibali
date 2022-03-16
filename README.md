@@ -13,22 +13,30 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Never really had a type.. i just like the way, i vibe w/ certain people. 🖤 ♛
 
+<br>
+ 
+  
+<a href="https://twitter.com/dev_aaquib">
+<img align="left" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" />
+   
 
- ### Connect with me:
+ 
+<a href ="https://aaquibdev.medium.com/">
+<img align="left" alt="Aaquib's Medium" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" />
+ 
+  
+<a href="https://instagram.com/ali.aaquib_">
+<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aaquib Ali's Instagram" width="20" title="Follow me on Instagram"/>
 
-[![website](./img/globe-light.svg)](https://aaquibaliportfolio.vercel.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://aaquibaliportfolio.vercel.app#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/dev_aaquib#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/dev_aaquib#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aaquib-ali#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aaquib-ali#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/ali.aaquib_#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/ali.aaquib_#gh-dark-mode-only)
-------------------
+        
+<a href="https://www.linkedin.com/in/aaquib-ali">
+<img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="Connect with me on LinkedIn" />
+ 
+ 
+</a>
+ <br>
 
+ 
 ### 💻 Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
