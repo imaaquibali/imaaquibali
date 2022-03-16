@@ -65,7 +65,7 @@
 
 ➡️ [more blog posts...](https://aaquibdev.medium.com/)
 
-<h4><i>Some more information &nbsp; </i>🏷:-</h4>
+### Some more information 
 
  <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
  
@@ -84,26 +84,10 @@
   
  [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaaquib&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  </details>
-
-
+ 
 
  <details>
-  <summary> 🧮 &nbsp; <i>Most Used Languages</i></summary>
-
-  
-  <br>
-    <br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devaaquib&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
-
-<!-- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devaaquib&show_icons=true&theme=tokyonight" />
-</div> -->
-
-
-### :zap: Recent Activity
+  <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
 <!--START_SECTION:activity-->
 
