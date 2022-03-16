@@ -6,6 +6,7 @@
   </a>
 </h1>
 
+<img align="right" width=90px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
 
 - 🔭 Driven Undergraduate student Currently in 2nd year 
 - 📋 Open-Source enthusiast, Blogger, Developer
@@ -15,7 +16,7 @@
 
 <br>
  
-  
+
 <a href="https://twitter.com/dev_aaquib">
 <img align="left" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" />
    
