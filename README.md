@@ -92,7 +92,6 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
     
    <!--START_SECTION:activity-->
-
    <!--END_SECTION:activity-->
 
 ---
