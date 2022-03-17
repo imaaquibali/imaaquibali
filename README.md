@@ -79,6 +79,11 @@
  
   <details>
    <summary> 📊 &nbsp; <i>My GitHub Stats</i></summary>
+    
+   <!--START_SECTION:activity-->
+   <!--END_SECTION:activity-->
+
+---
   
   <br>
   
