@@ -80,6 +80,15 @@
   <details>
    <summary> 📊 &nbsp; <i>My GitHub Stats</i></summary>
     
+      <br>
+  
+ [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaaquib&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ </details>
+
+    
+  <details>
+  <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
+    
    <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3715](https://github.com/EddieHubCommunity/support/issues/3715) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. ❗️ Opened issue [#3715](https://github.com/EddieHubCommunity/support/issues/3715) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
@@ -94,22 +103,8 @@
    <!--END_SECTION:activity-->
 
 ---
-  
-  <br>
-  
- [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaaquib&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
- </details>
-
-
- <details>
-  <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
-   
- </details>   
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
+ 
+</details>   
 
 <!---
 devaaquib/devaaquib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
