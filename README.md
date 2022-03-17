@@ -88,6 +88,8 @@
 
  <details>
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
+   
+ </details>   
 
 <!--START_SECTION:activity-->
 
