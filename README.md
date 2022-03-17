@@ -1,4 +1,3 @@
-<!-- ## 🙋‍♂️ Aaquib is here... 👨‍💻  -->
 
 <pre> <b>Hi, I am Aaquib Ali</b>. 👋</pre>
 
@@ -23,7 +22,6 @@
 <img align="left" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" />
    
 
- 
 <a href ="https://aaquibdev.medium.com/">
 <img align="left" alt="Aaquib's Medium" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" />
  
@@ -63,12 +61,16 @@
 - [Windows 11: Everything You Need to Know?](https://aaquibdev.medium.com/windows-11-everything-you-need-to-know-9b82d308f062?source=rss-ab31787d3f79------2)
 <!-- BLOG-POST-LIST:END -->
 
+  
 ➡️ [more blog posts...](https://aaquibdev.medium.com/)
 
+  
 ### Some more information 
 
+  
  <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
  
+  
  <details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
@@ -112,11 +114,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
-
-
-
-
-<!-- ### Spotify Playing 🎧
-[<img src="https://novatorem-devaaquib.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/1d4b58a048ca4616892ac769fe4d180b)
-
-<!-- [![Spotify](https://novatorem-devaaquib.vercel.app/api/spotify)](https://open.spotify.com/user/1d4b58a048ca4616892ac769fe4d180b) --> 
