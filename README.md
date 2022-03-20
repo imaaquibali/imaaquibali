@@ -92,16 +92,16 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
     
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#798](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/798) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-2. 🗣 Commented on [#788](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/788) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-3. 🗣 Commented on [#776](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/776) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-4. 🎉 Merged PR [#791](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/791) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-5. ❗️ Closed issue [#776](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/776) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-6. 🎉 Merged PR [#774](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/774) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-7. ❗️ Closed issue [#674](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/674) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-8. 🗣 Commented on [#794](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/794) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-9. 🗣 Commented on [#793](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/793) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-10. 🗣 Commented on [#792](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/792) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+1. ❗️ Opened issue [#17](https://github.com/devstrons/support/issues/17) in [devstrons/support](https://github.com/devstrons/support)
+2. 🗣 Commented on [#799](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/799) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+3. 🎉 Merged PR [#800](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/800) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+4. ❗️ Closed issue [#780](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/780) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+5. 🗣 Commented on [#800](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/800) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+6. 🗣 Commented on [#798](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/798) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+7. 🗣 Commented on [#788](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/788) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+8. 🗣 Commented on [#776](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/776) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+9. 🎉 Merged PR [#791](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/791) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+10. ❗️ Closed issue [#776](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/776) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
    <!--END_SECTION:activity-->
 
 ---
