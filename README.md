@@ -67,22 +67,19 @@
   
 ### Some more information 
 
-  
  <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
  
-  
- <details>
+
+<details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
-  <br>
-  
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devaaquib&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 </details>
  
   <details>
    <summary> 📊 &nbsp; <i>My GitHub Stats</i></summary>
     
-      <br>
   
  [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaaquib&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  </details>
@@ -97,16 +94,9 @@
 3. ❗️ Closed issue [#797](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/797) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 4. 🗣 Commented on [#818](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/818) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 5. ❌ Closed PR [#3](https://github.com/vsnthdev/try/pull/3) in [vsnthdev/try](https://github.com/vsnthdev/try)
-6. 💪 Opened PR [#3](https://github.com/vsnthdev/try/pull/3) in [vsnthdev/try](https://github.com/vsnthdev/try)
-7. 🗣 Commented on [#802](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/802) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-8. ❗️ Opened issue [#17](https://github.com/devstrons/support/issues/17) in [devstrons/support](https://github.com/devstrons/support)
-9. 🗣 Commented on [#799](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/799) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-10. 🎉 Merged PR [#800](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/800) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
    <!--END_SECTION:activity-->
-
 ---
- 
-</details>   
+ </details>   
 
 <!---
 devaaquib/devaaquib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
