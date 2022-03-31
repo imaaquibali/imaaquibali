@@ -92,16 +92,16 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
     
    <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/vsnthdev/try/pull/3) in [vsnthdev/try](https://github.com/vsnthdev/try)
-2. 💪 Opened PR [#3](https://github.com/vsnthdev/try/pull/3) in [vsnthdev/try](https://github.com/vsnthdev/try)
-3. 🗣 Commented on [#802](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/802) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-4. ❗️ Opened issue [#17](https://github.com/devstrons/support/issues/17) in [devstrons/support](https://github.com/devstrons/support)
-5. 🗣 Commented on [#799](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/799) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-6. 🎉 Merged PR [#800](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/800) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-7. ❗️ Closed issue [#780](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/780) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-8. 🗣 Commented on [#800](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/800) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-9. 🗣 Commented on [#798](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/798) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-10. 🗣 Commented on [#788](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/788) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+1. 🎉 Merged PR [#816](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/816) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+2. 🎉 Merged PR [#817](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/817) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+3. ❗️ Closed issue [#797](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/797) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+4. 🗣 Commented on [#818](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/818) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+5. ❌ Closed PR [#3](https://github.com/vsnthdev/try/pull/3) in [vsnthdev/try](https://github.com/vsnthdev/try)
+6. 💪 Opened PR [#3](https://github.com/vsnthdev/try/pull/3) in [vsnthdev/try](https://github.com/vsnthdev/try)
+7. 🗣 Commented on [#802](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/802) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+8. ❗️ Opened issue [#17](https://github.com/devstrons/support/issues/17) in [devstrons/support](https://github.com/devstrons/support)
+9. 🗣 Commented on [#799](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/799) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+10. 🎉 Merged PR [#800](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/800) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
    <!--END_SECTION:activity-->
 
 ---
