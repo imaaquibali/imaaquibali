@@ -64,6 +64,12 @@
   
 ➡️ [more blog posts...](https://aaquibdev.medium.com/)
 
+
+### 📱 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+
   
 ### Some more information 
 
