@@ -96,11 +96,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
     
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#839](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/839) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-2. 🎉 Merged PR [#835](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/835) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-3. ❗️ Closed issue [#834](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/834) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-4. 🗣 Commented on [#826](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/826) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-5. 🎉 Merged PR [#816](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/816) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+1. 🗣 Commented on [#771](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/771) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+2. 🗣 Commented on [#839](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/839) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+3. 🎉 Merged PR [#835](https://github.com/SauravMukherjee44/Aec-Library-Website/pull/835) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+4. ❗️ Closed issue [#834](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/834) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+5. 🗣 Commented on [#826](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/826) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
    <!--END_SECTION:activity-->
 ---
  </details>   
