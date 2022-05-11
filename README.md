@@ -66,7 +66,7 @@
 ------------------
 
 <details>  
- <summary> ### 📱 Latest Tweets  </summary>
+  <summary> <h1>📱 Latest Tweets </h1> </summary>
   
 <!-- TWITTER:START -->
 - [@dev_aaquib: Eid Mubarak everyone ✨🌛No matter where you are or what you are doing, remember that Allah is always with you to help and guide you in every important step of your life.May this Eid fill your life with the brightest of colours. wishing you and your family a very happy Eid!](https://twitter.com/dev_aaquib/status/1521392731712475136)
