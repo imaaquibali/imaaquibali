@@ -68,6 +68,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@dev_aaquib: Eid Mubarak everyone ✨🌛No matter where you are or what you are doing, remember that Allah is always with you to help and guide you in every important step of your life.May this Eid fill your life with the brightest of colours. wishing you and your family a very happy Eid!](https://twitter.com/dev_aaquib/status/1521392731712475136)
+- [@holidayhackss: Another Giveaway is here 💥🥳If you missed out on the previous one then here&#39;s one more chance 😌We are giving away awesome swags and tshirt 🤟🏻.](https://twitter.com/holidayhackss/status/1519000975956058112)
+- [@holidayhackss: Hurry Up Guys the Giveaways are starting ON 🥳! We are giving away awesome SWAGS and TSHIRT 🤟🏻. To enter this giveaway please make sure the steps mentioned below are followed](https://twitter.com/holidayhackss/status/1517946182302978049)
+- [@dev_aaquib: Woot! I&#39;m attending I/O. Are you?  #GoogleIO](https://twitter.com/dev_aaquib/status/1517146174310207488)
+- [@Prathamesh_117: 🚀 @hackthisfall City Meetup Series Part 2📍Pune Edition!💙 All The People I met there were awesome &amp; I had really cool conversations with all of them! ✨Hope you all had fun🙌Until Next Time, Pune! 👋](https://twitter.com/Prathamesh_117/status/1516403207894827014)
 <!-- TWITTER:END -->
   
 ------------------
