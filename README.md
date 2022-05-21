@@ -100,11 +100,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
     
    <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/Techie-Tessie/Summer/pull/2) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
-2. 💪 Opened PR [#2](https://github.com/Techie-Tessie/Summer/pull/2) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
-3. 🗣 Commented on [#846](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/846) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-4. 🗣 Commented on [#850](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/850) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-5. 🗣 Commented on [#851](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/851) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+1. 💪 Opened PR [#1](https://github.com/Mohasin-Haque/Summer/pull/1) in [Mohasin-Haque/Summer](https://github.com/Mohasin-Haque/Summer)
+2. ❌ Closed PR [#3](https://github.com/Techie-Tessie/Summer/pull/3) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
+3. 💪 Opened PR [#3](https://github.com/Techie-Tessie/Summer/pull/3) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
+4. ❌ Closed PR [#2](https://github.com/Techie-Tessie/Summer/pull/2) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
+5. 💪 Opened PR [#2](https://github.com/Techie-Tessie/Summer/pull/2) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
    <!--END_SECTION:activity-->
 ---
  </details>   
