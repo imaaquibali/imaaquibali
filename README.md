@@ -8,7 +8,7 @@
 </h1>
 
 
- <img align="right"  src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
+ <img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
  
 - 🔭 &nbsp; ⇢  &nbsp; Driven Undergraduate student Currently in 2nd year 
 - 📋 &nbsp; ⇢  &nbsp; Open-Source enthusiast, Blogger, Developer 
