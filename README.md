@@ -100,11 +100,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
     
    <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Mohasin-Haque/Summer/pull/1) in [Mohasin-Haque/Summer](https://github.com/Mohasin-Haque/Summer)
-2. ❌ Closed PR [#3](https://github.com/Techie-Tessie/Summer/pull/3) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
-3. 💪 Opened PR [#3](https://github.com/Techie-Tessie/Summer/pull/3) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
-4. ❌ Closed PR [#2](https://github.com/Techie-Tessie/Summer/pull/2) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
-5. 💪 Opened PR [#2](https://github.com/Techie-Tessie/Summer/pull/2) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
+1. 💪 Opened PR [#1156](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1156) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#1155](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1155) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 💪 Opened PR [#1](https://github.com/Mohasin-Haque/Summer/pull/1) in [Mohasin-Haque/Summer](https://github.com/Mohasin-Haque/Summer)
+4. ❌ Closed PR [#3](https://github.com/Techie-Tessie/Summer/pull/3) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
+5. 💪 Opened PR [#3](https://github.com/Techie-Tessie/Summer/pull/3) in [Techie-Tessie/Summer](https://github.com/Techie-Tessie/Summer)
    <!--END_SECTION:activity-->
 ---
  </details>   
