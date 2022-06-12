@@ -58,8 +58,8 @@
 - [All About Full Stack Development- The Complete Guide](https://enlear.academy/all-about-full-stack-development-the-complete-guide-3eab236046d9?source=rss-ab31787d3f79------2)
 - [Top 5 Programming languages to learn in 2022](https://enlear.academy/top-5-programming-languages-to-learn-in-2022-27f5d21ca6bc?source=rss-ab31787d3f79------2)
 - [9 Visual Studio Code Extensions That Make Programming Easier.](https://medium.com/geekculture/9-visual-studio-code-extensions-that-make-programming-easier-6bbdacc15b6?source=rss-ab31787d3f79------2)
-- [What is MLH Local Hack Day : Learn &amp; How to Participate?](https://aaquibdev.medium.com/what-is-mlh-local-hack-day-learn-how-to-participate-daf84fde173c?source=rss-ab31787d3f79------2)
-- [Windows 11: Everything You Need to Know?](https://aaquibdev.medium.com/windows-11-everything-you-need-to-know-9b82d308f062?source=rss-ab31787d3f79------2)
+- [What is MLH Local Hack Day : Learn &amp; How to Participate?](https://imaaquibali.medium.com/what-is-mlh-local-hack-day-learn-how-to-participate-daf84fde173c?source=rss-ab31787d3f79------2)
+- [Windows 11: Everything You Need to Know?](https://imaaquibali.medium.com/windows-11-everything-you-need-to-know-9b82d308f062?source=rss-ab31787d3f79------2)
 <!-- BLOG-POST-LIST:END -->
 
   
