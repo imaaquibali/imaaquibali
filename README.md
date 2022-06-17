@@ -8,7 +8,7 @@
 </h1>
 
 
-<img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
+<!-- <img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">  -->
  
 - 🔭 &nbsp; ⇢  &nbsp; Driven Undergraduate student Currently in 2nd year 
 - 📋 &nbsp; ⇢  &nbsp; Open-Source enthusiast, Blogger, Developer 
@@ -19,20 +19,20 @@
 <br>
  
 
-<a href="https://twitter.com/dev_aaquib">
-<img align="left" alt="Gautam Khatter | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" />
+<a href="https://twitter.com/imaaquibali">
+<img align="left" alt="Aaquib Ali | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" />
    
 
-<a href ="https://aaquibdev.medium.com/">
+<a href ="https://imaaquibali.medium.com/">
 <img align="left" alt="Aaquib's Medium" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" />
  
   
-<a href="https://instagram.com/ali.aaquib_">
+<a href="https://instagram.com/imaaquibali">
 <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aaquib Ali's Instagram" width="20" title="Follow me on Instagram"/>
 
         
 <a href="https://www.linkedin.com/in/aaquib-ali">
-<img align="left" alt="Gautam Khatter's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="Connect with me on LinkedIn" />
+<img align="left" alt="Aaquib Ali's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="Connect with me on LinkedIn" />
  
  
 </a>
@@ -78,21 +78,21 @@
   
 ### Some more information 
 
- <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
+<!--  <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif"> -->
  
 
 <details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devaaquib&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imaaquibali&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 </details>
  
   <details>
    <summary> 📊 &nbsp; <i>My GitHub Stats</i></summary>
     
   
- [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaaquib&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=imaaquibali&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  </details>
 
     
