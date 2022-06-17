@@ -100,11 +100,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
     
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1126](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1126) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. ❗️ Closed issue [#1155](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1155) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#1156](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1156) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 💪 Opened PR [#1156](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1156) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. ❗️ Opened issue [#1155](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1155) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 💪 Opened PR [#7](https://github.com/App-Choreography/GitHubProfileLeague/pull/7) in [App-Choreography/GitHubProfileLeague](https://github.com/App-Choreography/GitHubProfileLeague)
+2. 🗣 Commented on [#1126](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1126) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. ❗️ Closed issue [#1155](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1155) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#1156](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1156) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 💪 Opened PR [#1156](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1156) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
    <!--END_SECTION:activity-->
 ---
  </details>   
