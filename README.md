@@ -62,7 +62,7 @@
 <!-- BLOG-POST-LIST:END -->
 
   
-➡️ [more blog posts...](https://aaquibdev.medium.com/)
+➡️ [more blog posts...](https://imaaquibali.medium.com/)
 ------------------
 
 <details>  
