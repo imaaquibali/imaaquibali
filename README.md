@@ -98,11 +98,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
     
    <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/VerSiton/support/issues/3) in [VerSiton/support](https://github.com/VerSiton/support)
-2. ❗️ Opened issue [#3](https://github.com/VerSiton/support/issues/3) in [VerSiton/support](https://github.com/VerSiton/support)
-3. ❗️ Closed issue [#2](https://github.com/VerSiton/support/issues/2) in [VerSiton/support](https://github.com/VerSiton/support)
-4. ❗️ Opened issue [#2](https://github.com/VerSiton/support/issues/2) in [VerSiton/support](https://github.com/VerSiton/support)
-5. 💪 Opened PR [#7](https://github.com/App-Choreography/GitHubProfileLeague/pull/7) in [App-Choreography/GitHubProfileLeague](https://github.com/App-Choreography/GitHubProfileLeague)
+1. ❗️ Opened issue [#4493](https://github.com/EddieHubCommunity/support/issues/4493) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Closed issue [#3](https://github.com/VerSiton/support/issues/3) in [VerSiton/support](https://github.com/VerSiton/support)
+3. ❗️ Opened issue [#3](https://github.com/VerSiton/support/issues/3) in [VerSiton/support](https://github.com/VerSiton/support)
+4. ❗️ Closed issue [#2](https://github.com/VerSiton/support/issues/2) in [VerSiton/support](https://github.com/VerSiton/support)
+5. ❗️ Opened issue [#2](https://github.com/VerSiton/support/issues/2) in [VerSiton/support](https://github.com/VerSiton/support)
    <!--END_SECTION:activity-->
 ---
  </details>   
