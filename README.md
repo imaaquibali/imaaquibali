@@ -65,15 +65,15 @@
 ➡️ [more blog posts...](https://imaaquibali.medium.com/)
 ------------------
 
-<details>  
+<!-- <details>  
   <summary> <h3>📱 Latest Tweets </h3> </summary>
   
 <!-- TWITTER:START -->
 <!-- - [[Action required] Your RSS.app Trial has Expired.](https://rss.app) -->
 <!-- TWITTER:END -->
-  
+
 ------------------
- </details> 
+ </details>  -->
   
 <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
   
