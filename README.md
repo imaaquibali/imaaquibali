@@ -69,7 +69,7 @@
   <summary> <h3>📱 Latest Tweets </h3> </summary>
   
 <!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
+<!-- - [[Action required] Your RSS.app Trial has Expired.](https://rss.app) -->
 <!-- TWITTER:END -->
   
 ------------------
