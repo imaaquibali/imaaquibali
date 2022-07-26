@@ -86,6 +86,11 @@ This profile focusses on new addition about customizing your git with : -
 <!-- Blog Post with dynamically update using GitHub Workflow -->
 
 <!-- Start here -->
+<!-- Cool Giphy Start here -->
+
+<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
+  
+<!-- End here -->
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -99,12 +104,6 @@ This profile focusses on new addition about customizing your git with : -
   
 ➡️ [more blog posts...](https://imaaquibali.medium.com/)
 
-<!-- End here -->
-
-<!-- Cool Giphy Start here -->
-
-<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
-  
 <!-- End here -->
 
 <!-- Adding git Stats, Streaks to take your profile on the another level. -->
