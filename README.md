@@ -10,7 +10,7 @@ This profile focusses on new addition about customizing your git with : -
 
 <!-- Awesome bio with some cool Preformatted text.  -->
 <!-- Start here... -->
-<pre align="center"  > <b> Hi, I am Aaquib Ali </b>. 👋</pre>
+<pre align=""  > <b> Hi, I am Aaquib Ali </b>. 👋</pre>
 
 <h1 align="center">
   <a href="#">
