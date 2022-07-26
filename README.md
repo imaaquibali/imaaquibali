@@ -10,44 +10,57 @@ This profile focusses on new addition about customizing your git with : -
 
 <!-- Awesome bio with some cool Preformatted text.  -->
 <!-- Start here... -->
-<pre align=""  > <b> Hi, I am Aaquib Ali </b>. 👋</pre>
+
+<pre align=""  > <b> Hello folks!, Aaquib ALi here... </b>. 🙋🏽‍♂️</pre>
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Never,+really+had+a+type...;i+just+like+the+way...;i+vibe+w/+certain+people+♛&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Never,+really+had+a+type...;i+just+like+the+way...;i+vibe+w/+certain+people+🖤&center=true&size=20">
   </a>
 </h1>
 
+<!-- Cool Giphy Start here -->
+
 <img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
+
+<!-- End here -->
  
-- 🔭 &nbsp; ⇢  &nbsp; Driven Undergraduate student Currently in 2nd year 
-- 📋 &nbsp; ⇢  &nbsp; Open-Source enthusiast, Blogger, Developer 
-- 🤝 &nbsp; ⇢  &nbsp; 2021 Goals: contribute more to open-source 
-- 😄 &nbsp; ⇢  &nbsp; Pronouns: He/Him
-- ⚡ &nbsp; ⇢  &nbsp; Fun fact: Never really had a type.. i just like the way, i vibe w/ certain people. 🖤 
+- 🔭 &nbsp; ⇢  &nbsp; Driven Undergraduate student 
+- 📋 &nbsp; ⇢  &nbsp;  Front-End Developer | Content Creator | Mentor | Open-Source enthusiast | Community Builder |  
+- 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: learn about Web3, NFT, Crypto, etc  
+- 🌐&nbsp;  ⇢  &nbsp; Building @[VerSiton](https://www.github.com/versiton/) 
+- 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Pronouns: He/Him
+ 
 
 <!-- End here ... -->
 
 <br>
 
 <!-- Connect with me,languages & tools icons. -->
+
 <!-- Start Here   -->
 ###  Connect with me 
 
+<!-- Twitter -->
 <a href="https://twitter.com/imaaquibali">
 <img align="left" alt="imaaquibali | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" /></a>
    
-
+<!-- Medium -->
 <a href ="https://imaaquibali.medium.com/">
 <img align="left" alt="imaaquibali | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a>
  
-  
-<a href="https://instagram.com/imaaquibali">
-<img align="left" alt="imaaquibali | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  title="Follow me on Instagram"/><a>
 
-        
+<!-- Linkdlin -->
 <a href="https://www.linkedin.com/in/imaaquibali">
 <img align="left" alt=" imaaquibali | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="Connect with me on LinkedIn" /></a>
+
+<!-- Community (VerSiton) -->
+<a href="https://www.dsc.gg/versiton/">
+<img align="left" alt=" imaaquibali | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Connect with me on LinkedIn" /></a>
+
+<!-- Instgarm  -->
+<a href="https://instagram.com/imaaquibali">
+<img align="left" alt="imaaquibali | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  title="Follow me on Instagram"/><a>
 
 <br>
 <br>
@@ -70,6 +83,10 @@ This profile focusses on new addition about customizing your git with : -
 
 <!-- End here -->
 
+<!-- Blog Post with dynamically update using GitHub Workflow -->
+
+<!-- Start here -->
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [A complete Beginner’s guide — Web 3.0](https://imaaquibali.medium.com/a-complete-beginners-guide-web-3-0-333ffc0ff3a3?source=rss-ab31787d3f79------2)
@@ -81,29 +98,47 @@ This profile focusses on new addition about customizing your git with : -
 
   
 ➡️ [more blog posts...](https://imaaquibali.medium.com/)
+
+<!-- End here -->
+
+<!-- Cool Giphy Start here -->
+
+<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
   
-  <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
-  
+<!-- End here -->
+
+<!-- Adding git Stats, Streaks to take your profile on the another level. -->
 ### Some more information 
+
+<!-- GitHub Stats  Start here -->
+
+<details>
+  <summary> 📊 &nbsp; <i>My Stats</i></summary>
+    
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=imaaquibali&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<!-- End here -->
+
+<!-- GitHub Straks  Start here -->
 
 <details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
-
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imaaquibali&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-</details>
- 
-  <details>
-   <summary> 📊 &nbsp; <i>My GitHub Stats</i></summary>
-    
-  
- [![imaaquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=imaaquibali&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
- </details>
 
-    
-  <details>
+</details>
+
+<!-- End here -->
+
+ <!-- Recent activity using github workflow -->
+
+ <!-- Start here -->
+
+<details>
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
-    
+
    <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#4493](https://github.com/EddieHubCommunity/support/issues/4493) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. ❗️ Closed issue [#3](https://github.com/VerSiton/support/issues/3) in [VerSiton/support](https://github.com/VerSiton/support)
@@ -114,4 +149,10 @@ This profile focusses on new addition about customizing your git with : -
 ---
  </details>   
 
+<!-- End here -->
+
+<!-- Cool Wave content Start here  -->
+
 ![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
+
+<!-- end here -->
