@@ -13,7 +13,7 @@ This profile focusses on new addition about customizing your git with : -
 
 <!-- <pre align=""  > <b> Hello folks!, Aaquib ALi here... </b>. 🙋🏽‍♂️</pre> -->
 
-<p align="center"><a href="https://imaaquibali.github.io"><img width="80%" alt="Hello, I'm Aaquib. I do open source!" src="./assests/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://imaaquibali.github.io"><img width="80%" alt="Hello, I'm Aaquib. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <h1 align="center">
   <a href="#">
@@ -27,11 +27,11 @@ This profile focusses on new addition about customizing your git with : -
 
 <!-- End here -->
  
-- 🔭 &nbsp; ⇢  &nbsp; Driven Undergraduate student 
-- 📋 &nbsp; ⇢  &nbsp;  Front- End Developer | Content Creator | Mentor | Open-Source enthusiast | Community Builder |  
-- 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: learn about Web3, NFT, Crypto, etc  
+- 🔭 &nbsp; ⇢  &nbsp; Self-taught Front- End passionate developer from India 🇮🇳
+- 📋 &nbsp; ⇢  &nbsp;  I love writing  JavaScript, [Blogs](https://medium.com/@imaaquibali), & building fun experiments on type-level 
+- 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: learn about Web3, NFT, Crypto
 - 🌐&nbsp;  ⇢  &nbsp; Building @[VerSiton](https://www.github.com/versiton/) 
-- 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Pronouns: He/Him
+- 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Ask me anything [here](https://github.com/imaaquibali/imaaquibali/issues)
  
 
 <!-- End here ... -->
