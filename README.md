@@ -26,7 +26,7 @@ This profile focusses on new addition about customizing your git with : -
 <!-- End here -->
  
 - 🔭 &nbsp; ⇢  &nbsp; Driven Undergraduate student 
-- 📋 &nbsp; ⇢  &nbsp;  Front-End Developer | Content Creator | Mentor | Open-Source enthusiast | Community Builder |  
+- 📋 &nbsp; ⇢  &nbsp;  Front- End Developer | Content Creator | Mentor | Open-Source enthusiast | Community Builder |  
 - 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: learn about Web3, NFT, Crypto, etc  
 - 🌐&nbsp;  ⇢  &nbsp; Building @[VerSiton](https://www.github.com/versiton/) 
 - 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Pronouns: He/Him
@@ -50,7 +50,7 @@ This profile focusses on new addition about customizing your git with : -
 <img align="left" alt="imaaquibali | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a>
  
 
-<!-- Linkdlin -->
+<!-- Linkedin -->
 <a href="https://www.linkedin.com/in/imaaquibali">
 <img align="left" alt=" imaaquibali | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="Connect with me on LinkedIn" /></a>
 
@@ -58,7 +58,7 @@ This profile focusses on new addition about customizing your git with : -
 <a href="https://www.dsc.gg/versiton/">
 <img align="left" alt=" imaaquibali | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Connect with me on LinkedIn" /></a>
 
-<!-- Instgarm  -->
+<!-- Instagram  -->
 <a href="https://instagram.com/imaaquibali">
 <img align="left" alt="imaaquibali | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  title="Follow me on Instagram"/><a>
 
@@ -166,3 +166,10 @@ This profile focusses on new addition about customizing your git with : -
 ![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
 
 <!-- end here -->
+
+<!-- Spotify Playing start here -->
+<!-- ### Spotify Playing 🎧 
+
+[![Spotify](https://novatorem-imaaquibali.vercel.app/api/spotify)](https://open.spotify.com/user/31dr5oul5dtf6lonunqs6yvewrlu)  -->
+
+<!-- End here -->
