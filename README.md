@@ -150,11 +150,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4493](https://github.com/EddieHubCommunity/support/issues/4493) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Closed issue [#3](https://github.com/VerSiton/support/issues/3) in [VerSiton/support](https://github.com/VerSiton/support)
-3. ❗️ Opened issue [#3](https://github.com/VerSiton/support/issues/3) in [VerSiton/support](https://github.com/VerSiton/support)
-4. ❗️ Closed issue [#2](https://github.com/VerSiton/support/issues/2) in [VerSiton/support](https://github.com/VerSiton/support)
-5. ❗️ Opened issue [#2](https://github.com/VerSiton/support/issues/2) in [VerSiton/support](https://github.com/VerSiton/support)
+1. 🎉 Merged PR [#10](https://github.com/imaaquibali/Awesome-Readme-Profiles/pull/10) in [imaaquibali/Awesome-Readme-Profiles](https://github.com/imaaquibali/Awesome-Readme-Profiles)
+2. ❗️ Opened issue [#4493](https://github.com/EddieHubCommunity/support/issues/4493) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Closed issue [#3](https://github.com/VerSiton/support/issues/3) in [VerSiton/support](https://github.com/VerSiton/support)
+4. ❗️ Opened issue [#3](https://github.com/VerSiton/support/issues/3) in [VerSiton/support](https://github.com/VerSiton/support)
+5. ❗️ Closed issue [#2](https://github.com/VerSiton/support/issues/2) in [VerSiton/support](https://github.com/VerSiton/support)
    <!--END_SECTION:activity-->
 ---
  </details>   
