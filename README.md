@@ -11,7 +11,9 @@ This profile focusses on new addition about customizing your git with : -
 <!-- Awesome bio with some cool Preformatted text.  -->
 <!-- Start here... -->
 
-<pre align=""  > <b> Hello folks!, Aaquib ALi here... </b>. 🙋🏽‍♂️</pre>
+<!-- <pre align=""  > <b> Hello folks!, Aaquib ALi here... </b>. 🙋🏽‍♂️</pre> -->
+
+<p align="center"><a href="https://imaaquibali.github.io"><img width="80%" alt="Hello, I'm Aaquib. I do open source!" src="./assests/gh-readme-header.png" /></a></p>
 
 <h1 align="center">
   <a href="#">
