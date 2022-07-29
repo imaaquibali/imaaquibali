@@ -13,7 +13,7 @@ This profile focusses on new addition about customizing your git with : -
 
 <!-- <pre align=""  > <b> Hello folks!, Aaquib ALi here... </b>. 🙋🏽‍♂️</pre> -->
 
-<p align="center"><a href="https://imaaquibali.github.io"><img width="80%" alt="Hello, I'm Aaquib. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://imaaquibali.me"><img width="80%" alt="Hello, I'm Aaquib. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <h1 align="center">
   <a href="#">
