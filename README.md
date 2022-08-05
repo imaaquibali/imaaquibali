@@ -152,11 +152,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/Susmita-Dey/Sukoon/issues/45) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. ❌ Closed PR [#45](https://github.com/Susmita-Dey/Sukoon/pull/45) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. ❗️ Opened issue [#46](https://github.com/Susmita-Dey/Sukoon/issues/46) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 💪 Opened PR [#45](https://github.com/Susmita-Dey/Sukoon/pull/45) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🎉 Merged PR [#10](https://github.com/imaaquibali/Awesome-Readme-Profiles/pull/10) in [imaaquibali/Awesome-Readme-Profiles](https://github.com/imaaquibali/Awesome-Readme-Profiles)
+1. ❌ Closed PR [#53](https://github.com/Susmita-Dey/Sukoon/pull/53) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 💪 Opened PR [#53](https://github.com/Susmita-Dey/Sukoon/pull/53) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. 🗣 Commented on [#45](https://github.com/Susmita-Dey/Sukoon/issues/45) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. ❌ Closed PR [#45](https://github.com/Susmita-Dey/Sukoon/pull/45) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. ❗️ Opened issue [#46](https://github.com/Susmita-Dey/Sukoon/issues/46) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
    <!--END_SECTION:activity-->
 ---
  </details>   
