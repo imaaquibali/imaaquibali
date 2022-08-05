@@ -152,11 +152,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/Susmita-Dey/Sukoon/pull/45) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🎉 Merged PR [#10](https://github.com/imaaquibali/Awesome-Readme-Profiles/pull/10) in [imaaquibali/Awesome-Readme-Profiles](https://github.com/imaaquibali/Awesome-Readme-Profiles)
-3. ❗️ Opened issue [#4493](https://github.com/EddieHubCommunity/support/issues/4493) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#3](https://github.com/VerSiton/support/issues/3) in [VerSiton/support](https://github.com/VerSiton/support)
-5. ❗️ Closed issue [#2](https://github.com/VerSiton/support/issues/2) in [VerSiton/support](https://github.com/VerSiton/support)
+1. 🗣 Commented on [#45](https://github.com/Susmita-Dey/Sukoon/issues/45) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. ❌ Closed PR [#45](https://github.com/Susmita-Dey/Sukoon/pull/45) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. ❗️ Opened issue [#46](https://github.com/Susmita-Dey/Sukoon/issues/46) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. 💪 Opened PR [#45](https://github.com/Susmita-Dey/Sukoon/pull/45) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🎉 Merged PR [#10](https://github.com/imaaquibali/Awesome-Readme-Profiles/pull/10) in [imaaquibali/Awesome-Readme-Profiles](https://github.com/imaaquibali/Awesome-Readme-Profiles)
    <!--END_SECTION:activity-->
 ---
  </details>   
