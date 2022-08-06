@@ -152,11 +152,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/Susmita-Dey/Sukoon/issues/71) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🗣 Commented on [#51](https://github.com/Susmita-Dey/Sukoon/issues/51) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. 🗣 Commented on [#49](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects/issues/49) in [Sulagna-Dutta-Roy/Webeginner-projects](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects)
+2. 🗣 Commented on [#79](https://github.com/Susmita-Dey/Sukoon/issues/79) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 3. 🗣 Commented on [#54](https://github.com/Susmita-Dey/Sukoon/issues/54) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. ❌ Closed PR [#53](https://github.com/Susmita-Dey/Sukoon/pull/53) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 💪 Opened PR [#53](https://github.com/Susmita-Dey/Sukoon/pull/53) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. 🗣 Commented on [#81](https://github.com/Susmita-Dey/Sukoon/issues/81) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🗣 Commented on [#81](https://github.com/Susmita-Dey/Sukoon/issues/81) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
    <!--END_SECTION:activity-->
 ---
  </details>   
