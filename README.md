@@ -152,11 +152,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/fykaa/fykaa/pull/2) in [fykaa/fykaa](https://github.com/fykaa/fykaa)
-2. 💪 Opened PR [#1](https://github.com/fykaa/fykaa/pull/1) in [fykaa/fykaa](https://github.com/fykaa/fykaa)
-3. 🗣 Commented on [#86](https://github.com/Susmita-Dey/Sukoon/issues/86) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🎉 Merged PR [#86](https://github.com/Susmita-Dey/Sukoon/pull/86) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🗣 Commented on [#49](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects/issues/49) in [Sulagna-Dutta-Roy/Webeginner-projects](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects)
+1. 🎉 Merged PR [#103](https://github.com/Susmita-Dey/Sukoon/pull/103) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. 💪 Opened PR [#2](https://github.com/fykaa/fykaa/pull/2) in [fykaa/fykaa](https://github.com/fykaa/fykaa)
+3. 💪 Opened PR [#1](https://github.com/fykaa/fykaa/pull/1) in [fykaa/fykaa](https://github.com/fykaa/fykaa)
+4. 🗣 Commented on [#86](https://github.com/Susmita-Dey/Sukoon/issues/86) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🎉 Merged PR [#86](https://github.com/Susmita-Dey/Sukoon/pull/86) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
    <!--END_SECTION:activity-->
 ---
  </details>   
