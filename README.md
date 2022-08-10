@@ -15,6 +15,8 @@ This profile focusses on new addition about customizing your git with : -
 
 <!-- <p align="center"><a href="https://imaaquibali.me"><img width="80%" alt="Hello, I'm Aaquib. I do open source!" src="./assets/gh-readme-header.png" /></a></p>z -->
 
+<pre>Hello Folks! 🧑🏽‍💻</pre>
+
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Never,+really+had+a+type...;i+just+like+the+way...;i+vibe+w/+certain+people+🖤&center=true&size=20">
