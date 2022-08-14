@@ -154,11 +154,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#216](https://github.com/Susmita-Dey/Sukoon/issues/216) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🗣 Commented on [#216](https://github.com/Susmita-Dey/Sukoon/issues/216) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. 🗣 Commented on [#211](https://github.com/Susmita-Dey/Sukoon/issues/211) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🗣 Commented on [#209](https://github.com/Susmita-Dey/Sukoon/issues/209) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🗣 Commented on [#182](https://github.com/Susmita-Dey/Sukoon/issues/182) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. ❗️ Closed issue [#188](https://github.com/Susmita-Dey/Sukoon/issues/188) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+2. ❗️ Closed issue [#216](https://github.com/Susmita-Dey/Sukoon/issues/216) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+3. 🗣 Commented on [#216](https://github.com/Susmita-Dey/Sukoon/issues/216) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. 🗣 Commented on [#211](https://github.com/Susmita-Dey/Sukoon/issues/211) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🗣 Commented on [#209](https://github.com/Susmita-Dey/Sukoon/issues/209) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
    <!--END_SECTION:activity-->
 ---
  </details>   
