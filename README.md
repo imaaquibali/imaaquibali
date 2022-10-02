@@ -154,11 +154,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/sadikkhan123/sadikkhan123/pull/1) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
-2. 🗣 Commented on [#379](https://github.com/Susmita-Dey/Sukoon/issues/379) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. 🗣 Commented on [#372](https://github.com/Susmita-Dey/Sukoon/issues/372) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🗣 Commented on [#374](https://github.com/Susmita-Dey/Sukoon/issues/374) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🗣 Commented on [#365](https://github.com/Susmita-Dey/Sukoon/issues/365) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. 💪 Opened PR [#3](https://github.com/sadikkhan123/sadikkhan123/pull/3) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
+2. 💪 Opened PR [#2](https://github.com/sadikkhan123/sadikkhan123/pull/2) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
+3. 💪 Opened PR [#1](https://github.com/sadikkhan123/sadikkhan123/pull/1) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
+4. 🗣 Commented on [#379](https://github.com/Susmita-Dey/Sukoon/issues/379) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🗣 Commented on [#372](https://github.com/Susmita-Dey/Sukoon/issues/372) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
    <!--END_SECTION:activity-->
 ---
  </details>   
