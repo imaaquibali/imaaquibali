@@ -154,11 +154,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/imaaquibali/Portfolio/pull/1) in [imaaquibali/Portfolio](https://github.com/imaaquibali/Portfolio)
-2. 💪 Opened PR [#1](https://github.com/imaaquibali/Portfolio/pull/1) in [imaaquibali/Portfolio](https://github.com/imaaquibali/Portfolio)
-3. 💪 Opened PR [#3](https://github.com/sadikkhan123/sadikkhan123/pull/3) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
-4. 💪 Opened PR [#2](https://github.com/sadikkhan123/sadikkhan123/pull/2) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
-5. 💪 Opened PR [#1](https://github.com/sadikkhan123/sadikkhan123/pull/1) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
+1. ❗️ Opened issue [#61](https://github.com/Susmita-Dey/Moody-website/issues/61) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+2. ❗️ Opened issue [#60](https://github.com/Susmita-Dey/Moody-website/issues/60) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+3. 🎉 Merged PR [#1](https://github.com/imaaquibali/Portfolio/pull/1) in [imaaquibali/Portfolio](https://github.com/imaaquibali/Portfolio)
+4. 💪 Opened PR [#1](https://github.com/imaaquibali/Portfolio/pull/1) in [imaaquibali/Portfolio](https://github.com/imaaquibali/Portfolio)
+5. 💪 Opened PR [#3](https://github.com/sadikkhan123/sadikkhan123/pull/3) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
    <!--END_SECTION:activity-->
 ---
  </details>   
