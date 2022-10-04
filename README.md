@@ -154,11 +154,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#61](https://github.com/Susmita-Dey/Moody-website/issues/61) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-2. ❗️ Opened issue [#60](https://github.com/Susmita-Dey/Moody-website/issues/60) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-3. 🎉 Merged PR [#1](https://github.com/imaaquibali/Portfolio/pull/1) in [imaaquibali/Portfolio](https://github.com/imaaquibali/Portfolio)
-4. 💪 Opened PR [#1](https://github.com/imaaquibali/Portfolio/pull/1) in [imaaquibali/Portfolio](https://github.com/imaaquibali/Portfolio)
-5. 💪 Opened PR [#3](https://github.com/sadikkhan123/sadikkhan123/pull/3) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
+1. 🗣 Commented on [#66](https://github.com/Susmita-Dey/Moody-website/issues/66) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+2. ❗️ Closed issue [#66](https://github.com/Susmita-Dey/Moody-website/issues/66) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+3. 🗣 Commented on [#67](https://github.com/Susmita-Dey/Moody-website/issues/67) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+4. ❗️ Closed issue [#67](https://github.com/Susmita-Dey/Moody-website/issues/67) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+5. ❗️ Closed issue [#68](https://github.com/Susmita-Dey/Moody-website/issues/68) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
    <!--END_SECTION:activity-->
 ---
  </details>   
