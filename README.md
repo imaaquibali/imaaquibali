@@ -154,11 +154,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/Susmita-Dey/Moody-website/pull/62) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-2. 🗣 Commented on [#31](https://github.com/Susmita-Dey/Moody-website/issues/31) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-3. ❗️ Closed issue [#34](https://github.com/Susmita-Dey/Moody-website/issues/34) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-4. 🗣 Commented on [#62](https://github.com/Susmita-Dey/Moody-website/issues/62) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-5. 🗣 Commented on [#64](https://github.com/Susmita-Dey/Moody-website/issues/64) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+1. 🎉 Merged PR [#82](https://github.com/Susmita-Dey/Moody-website/pull/82) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+2. ❗️ Closed issue [#81](https://github.com/Susmita-Dey/Moody-website/issues/81) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+3. 💪 Opened PR [#82](https://github.com/Susmita-Dey/Moody-website/pull/82) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+4. ❗️ Closed issue [#35](https://github.com/Susmita-Dey/Moody-website/issues/35) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+5. ❗️ Opened issue [#81](https://github.com/Susmita-Dey/Moody-website/issues/81) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
    <!--END_SECTION:activity-->
 ---
  </details>   
