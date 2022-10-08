@@ -173,6 +173,16 @@ This profile focusses on new addition about customizing your git with : -
  
 <!-- End here -->
 
+<!-- Github trophy starts here-->
+ 
+ <details>
+ <summary> 🏆 &nbsp; <i>GitHub Trophy</i></summary>
+  <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=imaaquibali&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+
+</details>
+ 
+<!-- End here -->
+
 <!-- End here -->
 
 <!-- Cool Wave content Start here  -->
