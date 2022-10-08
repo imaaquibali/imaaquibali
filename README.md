@@ -161,7 +161,17 @@ This profile focusses on new addition about customizing your git with : -
 5. 🎉 Merged PR [#102](https://github.com/Susmita-Dey/Moody-website/pull/102) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
    <!--END_SECTION:activity-->
 ---
- </details>   
+ </details> 
+ 
+ <!-- Most used language starts here-->
+ 
+ <details>
+ <summary> 📝 &nbsp; <i>Most used language</i></summary>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=imaaquibali&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+
+</details>
+ 
+<!-- End here -->
 
 <!-- End here -->
 
