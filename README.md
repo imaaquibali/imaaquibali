@@ -154,10 +154,10 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/codedamn/projects/issues/106) in [codedamn/projects](https://github.com/codedamn/projects)
-2. ❗️ Opened issue [#106](https://github.com/codedamn/projects/issues/106) in [codedamn/projects](https://github.com/codedamn/projects)
-3. ❗️ Opened issue [#105](https://github.com/codedamn/projects/issues/105) in [codedamn/projects](https://github.com/codedamn/projects)
-4. 🗣 Commented on [#99](https://github.com/Susmita-Dey/Moody-website/issues/99) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+1. 💪 Opened PR [#109](https://github.com/codedamn/projects/pull/109) in [codedamn/projects](https://github.com/codedamn/projects)
+2. 🗣 Commented on [#106](https://github.com/codedamn/projects/issues/106) in [codedamn/projects](https://github.com/codedamn/projects)
+3. ❗️ Opened issue [#106](https://github.com/codedamn/projects/issues/106) in [codedamn/projects](https://github.com/codedamn/projects)
+4. ❗️ Opened issue [#105](https://github.com/codedamn/projects/issues/105) in [codedamn/projects](https://github.com/codedamn/projects)
 5. 🗣 Commented on [#99](https://github.com/Susmita-Dey/Moody-website/issues/99) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
    <!--END_SECTION:activity-->
 ---
