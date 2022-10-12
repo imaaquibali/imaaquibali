@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/11) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-2. 💪 Opened PR [#59](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/59) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-3. ❗️ Opened issue [#58](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/58) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-4. 💪 Opened PR [#31](https://github.com/SRM-IST-KTR/HacktoberFest2022/pull/31) in [SRM-IST-KTR/HacktoberFest2022](https://github.com/SRM-IST-KTR/HacktoberFest2022)
-5. ❗️ Opened issue [#30](https://github.com/SRM-IST-KTR/HacktoberFest2022/issues/30) in [SRM-IST-KTR/HacktoberFest2022](https://github.com/SRM-IST-KTR/HacktoberFest2022)
+1. ❗️ Closed issue [#61](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/61) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+2. 🎉 Merged PR [#62](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/62) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+3. 💪 Opened PR [#62](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/62) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+4. ❗️ Opened issue [#61](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/61) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. 🗣 Commented on [#11](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/11) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
    <!--END_SECTION:activity-->
 ---
  </details> 
