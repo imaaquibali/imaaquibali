@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/fykaa/techOS-Bell/issues/13) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-2. ❗️ Opened issue [#117](https://github.com/Susmita-Dey/Moody-website/issues/117) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-3. ❌ Closed PR [#108](https://github.com/Susmita-Dey/Moody-website/pull/108) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-4. 🗣 Commented on [#108](https://github.com/Susmita-Dey/Moody-website/issues/108) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-5. 🗣 Commented on [#106](https://github.com/codedamn/projects/issues/106) in [codedamn/projects](https://github.com/codedamn/projects)
+1. ❗️ Opened issue [#58](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/58) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+2. 💪 Opened PR [#31](https://github.com/SRM-IST-KTR/HacktoberFest2022/pull/31) in [SRM-IST-KTR/HacktoberFest2022](https://github.com/SRM-IST-KTR/HacktoberFest2022)
+3. ❗️ Opened issue [#30](https://github.com/SRM-IST-KTR/HacktoberFest2022/issues/30) in [SRM-IST-KTR/HacktoberFest2022](https://github.com/SRM-IST-KTR/HacktoberFest2022)
+4. ❗️ Opened issue [#13](https://github.com/fykaa/techOS-Bell/issues/13) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+5. ❗️ Opened issue [#117](https://github.com/Susmita-Dey/Moody-website/issues/117) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
    <!--END_SECTION:activity-->
 ---
  </details> 
