@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/58) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-2. 💪 Opened PR [#31](https://github.com/SRM-IST-KTR/HacktoberFest2022/pull/31) in [SRM-IST-KTR/HacktoberFest2022](https://github.com/SRM-IST-KTR/HacktoberFest2022)
-3. ❗️ Opened issue [#30](https://github.com/SRM-IST-KTR/HacktoberFest2022/issues/30) in [SRM-IST-KTR/HacktoberFest2022](https://github.com/SRM-IST-KTR/HacktoberFest2022)
-4. ❗️ Opened issue [#13](https://github.com/fykaa/techOS-Bell/issues/13) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-5. ❗️ Opened issue [#117](https://github.com/Susmita-Dey/Moody-website/issues/117) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+1. 💪 Opened PR [#59](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/59) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+2. ❗️ Opened issue [#58](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/58) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+3. 💪 Opened PR [#31](https://github.com/SRM-IST-KTR/HacktoberFest2022/pull/31) in [SRM-IST-KTR/HacktoberFest2022](https://github.com/SRM-IST-KTR/HacktoberFest2022)
+4. ❗️ Opened issue [#30](https://github.com/SRM-IST-KTR/HacktoberFest2022/issues/30) in [SRM-IST-KTR/HacktoberFest2022](https://github.com/SRM-IST-KTR/HacktoberFest2022)
+5. ❗️ Opened issue [#13](https://github.com/fykaa/techOS-Bell/issues/13) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
    <!--END_SECTION:activity-->
 ---
  </details> 
