@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#61](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/61) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-2. 🎉 Merged PR [#62](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/62) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-3. 💪 Opened PR [#62](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/62) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-4. ❗️ Opened issue [#61](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/61) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-5. 🗣 Commented on [#11](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/11) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+1. 🎉 Merged PR [#2](https://github.com/imaaquibali/Portfolio/pull/2) in [imaaquibali/Portfolio](https://github.com/imaaquibali/Portfolio)
+2. 💪 Opened PR [#2](https://github.com/imaaquibali/Portfolio/pull/2) in [imaaquibali/Portfolio](https://github.com/imaaquibali/Portfolio)
+3. ❗️ Closed issue [#61](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/61) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+4. 🎉 Merged PR [#62](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/62) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. 💪 Opened PR [#62](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/62) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
    <!--END_SECTION:activity-->
 ---
  </details> 
