@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/imaaquibali/Portfolio/pull/2) in [imaaquibali/Portfolio](https://github.com/imaaquibali/Portfolio)
-2. 💪 Opened PR [#2](https://github.com/imaaquibali/Portfolio/pull/2) in [imaaquibali/Portfolio](https://github.com/imaaquibali/Portfolio)
-3. ❗️ Closed issue [#61](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/61) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-4. 🎉 Merged PR [#62](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/62) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-5. 💪 Opened PR [#62](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/62) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+1. ❗️ Closed issue [#58](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/58) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+2. ❗️ Closed issue [#366](https://github.com/kautukkundan/Awesome-Profile-README-templates/issues/366) in [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+3. ❌ Closed PR [#364](https://github.com/kautukkundan/Awesome-Profile-README-templates/pull/364) in [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+4. ❌ Closed PR [#365](https://github.com/kautukkundan/Awesome-Profile-README-templates/pull/365) in [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+5. ❗️ Closed issue [#1](https://github.com/kashyapkumar-pdf/Bookmark-application/issues/1) in [kashyapkumar-pdf/Bookmark-application](https://github.com/kashyapkumar-pdf/Bookmark-application)
    <!--END_SECTION:activity-->
 ---
  </details> 
