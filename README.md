@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/15) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-2. 🗣 Commented on [#14](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/14) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-3. ❗️ Closed issue [#11](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/11) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-4. 🎉 Merged PR [#13](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/pull/13) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-5. 🗣 Commented on [#12](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/12) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+1. 🗣 Commented on [#18](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/18) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+2. 🗣 Commented on [#16](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/16) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+3. ❗️ Closed issue [#17](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/17) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+4. 🎉 Merged PR [#16](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/pull/16) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+5. 🗣 Commented on [#16](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/16) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
    <!--END_SECTION:activity-->
 ---
  </details> 
