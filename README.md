@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/18) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-2. 🗣 Commented on [#16](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/16) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-3. ❗️ Closed issue [#17](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/17) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-4. 🎉 Merged PR [#16](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/pull/16) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-5. 🗣 Commented on [#16](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/16) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+1. ❗️ Closed issue [#28](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/28) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+2. 🎉 Merged PR [#20](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/pull/20) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+3. 🗣 Commented on [#28](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/28) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+4. 🎉 Merged PR [#8](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/pull/8) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+5. ❌ Reopened PR [#8](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/pull/8) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
    <!--END_SECTION:activity-->
 ---
  </details> 
