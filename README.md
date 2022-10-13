@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#58](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/58) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-2. ❗️ Closed issue [#366](https://github.com/kautukkundan/Awesome-Profile-README-templates/issues/366) in [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-3. ❌ Closed PR [#364](https://github.com/kautukkundan/Awesome-Profile-README-templates/pull/364) in [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-4. ❌ Closed PR [#365](https://github.com/kautukkundan/Awesome-Profile-README-templates/pull/365) in [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-5. ❗️ Closed issue [#1](https://github.com/kashyapkumar-pdf/Bookmark-application/issues/1) in [kashyapkumar-pdf/Bookmark-application](https://github.com/kashyapkumar-pdf/Bookmark-application)
+1. ❗️ Closed issue [#11](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/11) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+2. 🎉 Merged PR [#13](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/pull/13) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+3. 🗣 Commented on [#12](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/12) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+4. ❗️ Closed issue [#58](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/58) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. ❗️ Closed issue [#366](https://github.com/kautukkundan/Awesome-Profile-README-templates/issues/366) in [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
    <!--END_SECTION:activity-->
 ---
  </details> 
