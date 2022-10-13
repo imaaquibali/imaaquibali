@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#28](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/28) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-2. 🎉 Merged PR [#20](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/pull/20) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-3. 🗣 Commented on [#28](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/28) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-4. 🎉 Merged PR [#8](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/pull/8) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
-5. ❌ Reopened PR [#8](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/pull/8) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+1. ❗️ Closed issue [#65](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/65) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+2. 🎉 Merged PR [#66](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/66) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+3. 🗣 Commented on [#31](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/issues/31) in [imaaquibali/Awesome-GitHub-README-Profiles](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles)
+4. 🗣 Commented on [#65](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/65) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. ❗️ Closed issue [#63](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/63) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
    <!--END_SECTION:activity-->
 ---
  </details> 
