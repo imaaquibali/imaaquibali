@@ -33,7 +33,7 @@ This profile focusses on new addition about customizing your git with : -
 - 📋 &nbsp; ⇢  &nbsp;  I love writing  JavaScript, [Blogs](https://medium.com/@imaaquibali), & building fun experiments on type-level 
 - 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: learn about Web3, NFT, Crypto
 - 🌐&nbsp;  ⇢  &nbsp; Building @[VerSiton](https://www.github.com/versiton/) 
-- 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Ask me anything [here](https://github.com/imaaquibali/imaaquibali/issues)
+- 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Ask me anything [here](https://twitter.com/imaaquibali)
  
 
 <!-- End here ... -->
