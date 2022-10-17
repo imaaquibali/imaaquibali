@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/imaaquibali/awesome-github-profile-readme/issues/47) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-2. ❗️ Closed issue [#42](https://github.com/imaaquibali/awesome-github-profile-readme/issues/42) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-3. 🎉 Merged PR [#47](https://github.com/imaaquibali/awesome-github-profile-readme/pull/47) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-4. 🗣 Commented on [#47](https://github.com/imaaquibali/awesome-github-profile-readme/issues/47) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-5. ❗️ Closed issue [#46](https://github.com/imaaquibali/awesome-github-profile-readme/issues/46) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+1. ❗️ Closed issue [#52](https://github.com/imaaquibali/awesome-github-profile-readme/issues/52) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+2. 🎉 Merged PR [#53](https://github.com/imaaquibali/awesome-github-profile-readme/pull/53) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+3. 🗣 Commented on [#54](https://github.com/imaaquibali/awesome-github-profile-readme/issues/54) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+4. ❗️ Closed issue [#50](https://github.com/imaaquibali/awesome-github-profile-readme/issues/50) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+5. 🎉 Merged PR [#54](https://github.com/imaaquibali/awesome-github-profile-readme/pull/54) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
    <!--END_SECTION:activity-->
 ---
  </details> 
