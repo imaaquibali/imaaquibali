@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/codedamn/projects/issues/109) in [codedamn/projects](https://github.com/codedamn/projects)
-2. 🗣 Commented on [#106](https://github.com/codedamn/projects/issues/106) in [codedamn/projects](https://github.com/codedamn/projects)
-3. 🗣 Commented on [#59](https://github.com/imaaquibali/awesome-github-profile-readme/issues/59) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-4. 🎉 Merged PR [#59](https://github.com/imaaquibali/awesome-github-profile-readme/pull/59) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-5. ❗️ Closed issue [#58](https://github.com/imaaquibali/awesome-github-profile-readme/issues/58) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+1. 🗣 Commented on [#60](https://github.com/imaaquibali/awesome-github-profile-readme/issues/60) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+2. ❗️ Closed issue [#57](https://github.com/imaaquibali/awesome-github-profile-readme/issues/57) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+3. 🎉 Merged PR [#60](https://github.com/imaaquibali/awesome-github-profile-readme/pull/60) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+4. 🗣 Commented on [#109](https://github.com/codedamn/projects/issues/109) in [codedamn/projects](https://github.com/codedamn/projects)
+5. 🗣 Commented on [#106](https://github.com/codedamn/projects/issues/106) in [codedamn/projects](https://github.com/codedamn/projects)
    <!--END_SECTION:activity-->
 ---
  </details> 
