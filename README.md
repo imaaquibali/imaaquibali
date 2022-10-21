@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/imaaquibali/githubtify/issues/1) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
-2. 🗣 Commented on [#61](https://github.com/imaaquibali/awesome-github-profile-readme/issues/61) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-3. 🗣 Commented on [#60](https://github.com/imaaquibali/awesome-github-profile-readme/issues/60) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-4. ❗️ Closed issue [#57](https://github.com/imaaquibali/awesome-github-profile-readme/issues/57) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-5. 🎉 Merged PR [#60](https://github.com/imaaquibali/awesome-github-profile-readme/pull/60) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+1. ❗️ Closed issue [#1](https://github.com/imaaquibali/githubtify/issues/1) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
+2. 🎉 Merged PR [#2](https://github.com/imaaquibali/githubtify/pull/2) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
+3. 🗣 Commented on [#1](https://github.com/imaaquibali/githubtify/issues/1) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
+4. 💪 Opened PR [#2](https://github.com/imaaquibali/githubtify/pull/2) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
+5. ❗️ Opened issue [#1](https://github.com/imaaquibali/githubtify/issues/1) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
    <!--END_SECTION:activity-->
 ---
  </details> 
