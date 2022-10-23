@@ -159,10 +159,10 @@ This profile focusses on new addition about customizing your git with : -
 
    <!--START_SECTION:activity-->
 1. 🗣 Commented on [#61](https://github.com/imaaquibali/awesome-github-profile-readme/issues/61) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-2. 🗣 Commented on [#64](https://github.com/imaaquibali/awesome-github-profile-readme/issues/64) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-3. 🗣 Commented on [#72](https://github.com/imaaquibali/awesome-github-profile-readme/issues/72) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-4. 🗣 Commented on [#74](https://github.com/imaaquibali/awesome-github-profile-readme/issues/74) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-5. 🗣 Commented on [#75](https://github.com/imaaquibali/awesome-github-profile-readme/issues/75) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+2. ❗️ Closed issue [#75](https://github.com/imaaquibali/awesome-github-profile-readme/issues/75) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+3. 🎉 Merged PR [#76](https://github.com/imaaquibali/awesome-github-profile-readme/pull/76) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+4. 🗣 Commented on [#61](https://github.com/imaaquibali/awesome-github-profile-readme/issues/61) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+5. 🗣 Commented on [#64](https://github.com/imaaquibali/awesome-github-profile-readme/issues/64) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
    <!--END_SECTION:activity-->
 ---
  </details> 
