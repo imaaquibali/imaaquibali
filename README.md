@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#66](https://github.com/imaaquibali/awesome-github-profile-readme/issues/66) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-2. 🎉 Merged PR [#71](https://github.com/imaaquibali/awesome-github-profile-readme/pull/71) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+1. 🗣 Commented on [#61](https://github.com/imaaquibali/awesome-github-profile-readme/issues/61) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+2. 🗣 Commented on [#64](https://github.com/imaaquibali/awesome-github-profile-readme/issues/64) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
 3. 🗣 Commented on [#72](https://github.com/imaaquibali/awesome-github-profile-readme/issues/72) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-4. ❗️ Closed issue [#69](https://github.com/imaaquibali/awesome-github-profile-readme/issues/69) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-5. 🎉 Merged PR [#65](https://github.com/imaaquibali/awesome-github-profile-readme/pull/65) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+4. 🗣 Commented on [#74](https://github.com/imaaquibali/awesome-github-profile-readme/issues/74) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+5. 🗣 Commented on [#75](https://github.com/imaaquibali/awesome-github-profile-readme/issues/75) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
    <!--END_SECTION:activity-->
 ---
  </details> 
