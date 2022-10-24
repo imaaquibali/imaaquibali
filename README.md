@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/imaaquibali/awesome-github-profile-readme/issues/72) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-2. 🗣 Commented on [#106](https://github.com/Susmita-Dey/Moody-website/issues/106) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
-3. 🗣 Commented on [#79](https://github.com/imaaquibali/awesome-github-profile-readme/issues/79) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-4. ❌ Closed PR [#77](https://github.com/imaaquibali/awesome-github-profile-readme/pull/77) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-5. ❗️ Closed issue [#74](https://github.com/imaaquibali/awesome-github-profile-readme/issues/74) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+1. 🗣 Commented on [#80](https://github.com/imaaquibali/awesome-github-profile-readme/issues/80) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+2. 🗣 Commented on [#72](https://github.com/imaaquibali/awesome-github-profile-readme/issues/72) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+3. 🗣 Commented on [#106](https://github.com/Susmita-Dey/Moody-website/issues/106) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+4. 🗣 Commented on [#79](https://github.com/imaaquibali/awesome-github-profile-readme/issues/79) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
+5. ❌ Closed PR [#77](https://github.com/imaaquibali/awesome-github-profile-readme/pull/77) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
    <!--END_SECTION:activity-->
 ---
  </details> 
