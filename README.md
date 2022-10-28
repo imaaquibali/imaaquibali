@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#80](https://github.com/imaaquibali/awesome-github-profile-readme/issues/80) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-2. 🎉 Merged PR [#81](https://github.com/imaaquibali/awesome-github-profile-readme/pull/81) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-3. 🗣 Commented on [#80](https://github.com/imaaquibali/awesome-github-profile-readme/issues/80) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-4. 🗣 Commented on [#72](https://github.com/imaaquibali/awesome-github-profile-readme/issues/72) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-5. 🗣 Commented on [#106](https://github.com/Susmita-Dey/Moody-website/issues/106) in [Susmita-Dey/Moody-website](https://github.com/Susmita-Dey/Moody-website)
+1. ❌ Closed PR [#1](https://github.com/CuriousCoderss/demo-file-for-practice/pull/1) in [CuriousCoderss/demo-file-for-practice](https://github.com/CuriousCoderss/demo-file-for-practice)
+2. ❌ Closed PR [#8](https://github.com/ieiciet/Checkout-ShoppingCart/pull/8) in [ieiciet/Checkout-ShoppingCart](https://github.com/ieiciet/Checkout-ShoppingCart)
+3. ❌ Closed PR [#109](https://github.com/codedamn/projects/pull/109) in [codedamn/projects](https://github.com/codedamn/projects)
+4. ❌ Closed PR [#1](https://github.com/ektaarora16/Look-out-a-Snake-/pull/1) in [ektaarora16/Look-out-a-Snake-](https://github.com/ektaarora16/Look-out-a-Snake-)
+5. ❗️ Closed issue [#106](https://github.com/codedamn/projects/issues/106) in [codedamn/projects](https://github.com/codedamn/projects)
    <!--END_SECTION:activity-->
 ---
  </details> 
