@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/imaaquibali/githubtify/issues/5) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
-2. ❗️ Opened issue [#5](https://github.com/imaaquibali/githubtify/issues/5) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
-3. ❌ Closed PR [#1](https://github.com/CuriousCoderss/demo-file-for-practice/pull/1) in [CuriousCoderss/demo-file-for-practice](https://github.com/CuriousCoderss/demo-file-for-practice)
-4. ❌ Closed PR [#8](https://github.com/ieiciet/Checkout-ShoppingCart/pull/8) in [ieiciet/Checkout-ShoppingCart](https://github.com/ieiciet/Checkout-ShoppingCart)
-5. ❌ Closed PR [#109](https://github.com/codedamn/projects/pull/109) in [codedamn/projects](https://github.com/codedamn/projects)
+1. 💪 Opened PR [#1](https://github.com/sadikkhan123/react-app/pull/1) in [sadikkhan123/react-app](https://github.com/sadikkhan123/react-app)
+2. ❗️ Closed issue [#5](https://github.com/imaaquibali/githubtify/issues/5) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
+3. ❗️ Opened issue [#5](https://github.com/imaaquibali/githubtify/issues/5) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
+4. ❌ Closed PR [#1](https://github.com/CuriousCoderss/demo-file-for-practice/pull/1) in [CuriousCoderss/demo-file-for-practice](https://github.com/CuriousCoderss/demo-file-for-practice)
+5. ❌ Closed PR [#8](https://github.com/ieiciet/Checkout-ShoppingCart/pull/8) in [ieiciet/Checkout-ShoppingCart](https://github.com/ieiciet/Checkout-ShoppingCart)
    <!--END_SECTION:activity-->
 ---
  </details> 
