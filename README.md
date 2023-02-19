@@ -32,7 +32,7 @@ This profile focusses on new addition about customizing your git with : -
 - 🔭 &nbsp; ⇢  &nbsp; Self-taught Front- End passionate developer from India 🇮🇳
 - 📋 &nbsp; ⇢  &nbsp;  I love writing  JavaScript, [Blogs](https://medium.com/@imaaquibali), & building fun experiments on type-level 
 - 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: learn about Web3, NFT, Crypto
-- 🌐&nbsp;  ⇢  &nbsp; Building @[VerSiton](https://www.github.com/versiton/) 
+- 🌐&nbsp;  ⇢  &nbsp; Building @[The VerSiton](https://www.github.com/theversiton/) 
 - 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Ask me anything [here](https://twitter.com/imaaquibali)
  
 
