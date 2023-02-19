@@ -158,9 +158,9 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/imaaquibali/awesome-github-profile-readme/issues/64) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-2. 🗣 Commented on [#82](https://github.com/imaaquibali/awesome-github-profile-readme/issues/82) in [imaaquibali/awesome-github-profile-readme](https://github.com/imaaquibali/awesome-github-profile-readme)
-3. 💪 Opened PR [#1](https://github.com/sadikkhan123/react-app/pull/1) in [sadikkhan123/react-app](https://github.com/sadikkhan123/react-app)
+1. 🎉 Merged PR [#1](https://github.com/imaaquibali/UIgenix/pull/1) in [imaaquibali/UIgenix](https://github.com/imaaquibali/UIgenix)
+2. 💪 Opened PR [#1](https://github.com/imaaquibali/UIgenix/pull/1) in [imaaquibali/UIgenix](https://github.com/imaaquibali/UIgenix)
+3. 💪 Opened PR [#4961](https://github.com/EddieHubCommunity/LinkFree/pull/4961) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 4. ❗️ Closed issue [#5](https://github.com/imaaquibali/githubtify/issues/5) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
 5. ❗️ Opened issue [#5](https://github.com/imaaquibali/githubtify/issues/5) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
    <!--END_SECTION:activity-->
