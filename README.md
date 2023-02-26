@@ -158,11 +158,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4961](https://github.com/EddieHubCommunity/LinkFree/issues/4961) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🎉 Merged PR [#1](https://github.com/imaaquibali/UIgenix/pull/1) in [imaaquibali/UIgenix](https://github.com/imaaquibali/UIgenix)
-3. 💪 Opened PR [#1](https://github.com/imaaquibali/UIgenix/pull/1) in [imaaquibali/UIgenix](https://github.com/imaaquibali/UIgenix)
-4. 💪 Opened PR [#4961](https://github.com/EddieHubCommunity/LinkFree/pull/4961) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ❗️ Opened issue [#5](https://github.com/imaaquibali/githubtify/issues/5) in [imaaquibali/githubtify](https://github.com/imaaquibali/githubtify)
+1. 💪 Opened PR [#5095](https://github.com/EddieHubCommunity/LinkFree/pull/5095) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#4961](https://github.com/EddieHubCommunity/LinkFree/issues/4961) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🎉 Merged PR [#1](https://github.com/imaaquibali/UIgenix/pull/1) in [imaaquibali/UIgenix](https://github.com/imaaquibali/UIgenix)
+4. 💪 Opened PR [#1](https://github.com/imaaquibali/UIgenix/pull/1) in [imaaquibali/UIgenix](https://github.com/imaaquibali/UIgenix)
+5. 💪 Opened PR [#4961](https://github.com/EddieHubCommunity/LinkFree/pull/4961) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
    <!--END_SECTION:activity-->
 ---
  </details> 
