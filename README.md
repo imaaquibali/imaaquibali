@@ -166,23 +166,6 @@ This profile focusses on new addition about customizing your git with : -
    <!--END_SECTION:activity-->
 ---
  </details> 
- 
- <!-- imaaquibali's Holopin board -->
-  <details>
- <summary> 📝 &nbsp; <i>Holopin board</i></summary>
- 
-  [![@imaaquibali's Holopin board](https://holopin.me/imaaquibali)](https://holopin.io/@imaaquibali)
-  
-</details>
- 
- <!-- Most used language starts here-->
- 
- <details>
- <summary> 📝 &nbsp; <i>Most used language</i></summary>
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=imaaquibali&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-
-</details>
-<!-- End here -->
 
 <!-- Github trophy starts here-->
  
