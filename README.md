@@ -102,11 +102,11 @@ This profile focusses on new addition about customizing your git with : -
 <!-- Start here -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m a lazy dev!](https://imaaquibali.medium.com/im-a-lazy-dev-11a565eab68b?source=rss-ab31787d3f79------2)
 - [Web3: An Introduction to the Decentralized Future of the Internet](https://imaaquibali.medium.com/web3-an-introduction-to-the-decentralized-future-of-the-internet-a3d8f30ef911?source=rss-ab31787d3f79------2)
 - [A complete Beginner’s guide — Web 3.0](https://imaaquibali.medium.com/a-complete-beginners-guide-web-3-0-333ffc0ff3a3?source=rss-ab31787d3f79------2)
 - [All About Full Stack Development- The Complete Guide](https://enlear.academy/all-about-full-stack-development-the-complete-guide-3eab236046d9?source=rss-ab31787d3f79------2)
 - [Top 5 Programming languages to learn in 2022](https://enlear.academy/top-5-programming-languages-to-learn-in-2022-27f5d21ca6bc?source=rss-ab31787d3f79------2)
-- [9 Visual Studio Code Extensions That Make Programming Easier.](https://medium.com/geekculture/9-visual-studio-code-extensions-that-make-programming-easier-6bbdacc15b6?source=rss-ab31787d3f79------2)
 <!-- BLOG-POST-LIST:END -->
 
   
